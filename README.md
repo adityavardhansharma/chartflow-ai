@@ -148,16 +148,6 @@ mermaid-chat-app/
 └── tailwind.config.js
 ```
 
-### System Prompts
-
-**Normal Mode**: General assistant with suggestion to use Chart Mode for diagrams
-
-**Chart Mode**: Specialized Mermaid generation with strict formatting rules:
-- Clean code blocks with 'mermaid' identifier
-- No comments inside code blocks
-- Explanations outside code blocks
-- Multiple charts per response when needed
-- Best practices for Mermaid syntax
 
 ## Contributing
 
